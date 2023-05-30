@@ -4,7 +4,7 @@
 
 3.Цикломатската комплексност е 11. Ја одредив така што ги изброив регионите кои се означени и на сликата погоре.
 
-4.![Picture5](https://github.com/dinagalevska/SI_2023_lab2_216018/assets/66796907/96865fa4-5fb1-4422-9c0c-3ba060846dec)
+4.![EveryBranch](https://github.com/dinagalevska/SI_2023_lab2_216018/assets/66796907/8954a785-774d-4c2f-8230-fb6eb36d39bc)
 
 •	Првиот тест случај одговара на Exception, па ги изминува само гранките: a-b, b-w
 
