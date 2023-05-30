@@ -2,12 +2,12 @@
 
 
 2.
-#![cfg](https://github.com/dinagalevska/SI_2023_lab2_216018/assets/66796907/3f9b7587-cfd0-4300-aa3d-8388498a04d9)
+![Untitled Diagram drawio](https://github.com/dinagalevska/SI_2023_lab2_216018/assets/66796907/7e128f8b-a1f0-4331-97ee-c4b7af1ed087)
 
 3. Цикломатската комплексност е 11. Ја одредив така што ги изброив регионите кои се означени и на сликата погоре.
 
 4.
-#![EB](https://github.com/dinagalevska/SI_2023_lab2_216018/assets/66796907/b9abc640-a06d-47ac-8b78-54847c9f8ebd)
+![EveryBranch](https://github.com/dinagalevska/SI_2023_lab2_216018/assets/66796907/bb3daa0d-b75e-4c67-9349-1b119c272072)
 
 
 •	Првиот тест случај одговара на Exception, па ги изминува само гранките: a-b, b-w
@@ -17,8 +17,7 @@
 •	Се додаваат останатите три тест случаи за да се изминат сите гранки. Со третиот тест случај се изминува вториот услов, третиот, условите во циклусот како и делот во else, а со четвртиот тест случај се изминуваат и гранките v-w и q,r-v, но фали да се измине уште една гранка s2-v, па затоа е потребен и петтиот тест случај така што би се изминале сите гранки.
 
 5.
-#![MC](https://github.com/dinagalevska/SI_2023_lab2_216018/assets/66796907/fd6ce1fc-9ea3-4b19-87a4-4bbbff3d3cc4)
-
+![Picture4](https://github.com/dinagalevska/SI_2023_lab2_216018/assets/66796907/78458246-126e-4eea-a7ec-36e0c5b79945)
 
 Имаме 4 можни ситуации:
 
