@@ -4,7 +4,8 @@
 ## 2. Control Flow Graph
 ![Untitled Diagram drawio](https://github.com/dinagalevska/SI_2023_lab2_216018/assets/66796907/7e128f8b-a1f0-4331-97ee-c4b7af1ed087)
 
-## 3. Цикломатската комплексност е 11. Ја одредив така што ги изброив регионите кои се означени и на сликата погоре.
+## 3. Цикломатска комплексност 
+Цикломатската комплексност е 11. Ја одредив така што ги изброив регионите кои се означени и на сликата погоре.
 
 ## 4. Every Branch
 ![EveryBranch](https://github.com/dinagalevska/SI_2023_lab2_216018/assets/66796907/bb3daa0d-b75e-4c67-9349-1b119c272072)
